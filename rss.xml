@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Crandall and Associates]]></title>
+        <description><![CDATA[Crandall and Associates]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 18:56:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TUUCI]]></title>
+            <description><![CDATA[<article><h1>TUUCI</h1><p>TUUCI - The ultimate umbrella company.</p><img src="http://www.tuuci.com/homepage_images/main_slider1.jpg"></article>]]></description>
+            <link>undefinedtuuci/index.html</link>
+            <guid isPermaLink="false">95cc28bc-a303-44eb-a0ee-ef18a11a400a</guid>
+            <pubDate>Tue, 01 Dec 2015 18:56:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
