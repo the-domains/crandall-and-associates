@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Brown Jordan
+    url: www.brownjordan.com
+    type: external
 favicon: null
 title: Crandall and Associates
 description: Extraordinary Furnishings
