@@ -1,24 +1,24 @@
 ---
-author: []
+datePublished: '2016-08-30T17:34:22.502Z'
+sourcePath: >-
+  _posts/2016-08-30-commercial-outdoor-patio-and-market-umbrellas-and-garden-paraso.md
+isBasedOnUrl: 'http://www.tuuci.com/'
+keywords: []
 related: []
+author: []
+via: {}
+dateModified: '2016-08-30T17:32:43.518Z'
+title: TUUCI
+app_links: []
 publisher:
   url: 'http://www.tuuci.com'
   name: Tuuci
   favicon: 'http://www.tuuci.com/favicon.ico'
   domain: www.tuuci.com
-keywords: []
 description: >-
   TUUCI makes commercial umbrellas, market umbrellas, patio umbrellas and
   outdoor parasols to marine grade quality standards - style and durability
-app_links: []
-isBasedOnUrl: 'http://www.tuuci.com/'
-title: 'Commercial, Outdoor Patio & Market Umbrellas & Garden Parasols | TUUCI'
-datePublished: '2016-08-30T17:24:42.197Z'
-dateModified: '2016-08-30T17:24:23.852Z'
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-commercial-outdoor-patio-and-market-umbrellas-and-garden-paraso.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -26,4 +26,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Commercial, Outdoor Patio &amp; Market Umbrellas &amp; Garden Parasols | TUUCI</h1><p>TUUCI makes commercial umbrellas, market umbrellas, patio umbrellas and outdoor parasols to marine grade quality standards - style and durability</p><img src="http://www.tuuci.com/homepage_images/main_slider2.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eb71984e4e616c099651e8fd61910d3b/noop.jpg?input=http%3A%2F%2Fwww.tuuci.com%2Fhomepage_images%2Fmain_slider2.jpg" /><h1>TUUCI</h1><p>TUUCI makes commercial umbrellas, market umbrellas, patio umbrellas and outdoor parasols to marine grade quality standards - style and durability</p></article>
